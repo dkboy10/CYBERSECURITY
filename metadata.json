@@ -1,0 +1,6 @@
+{
+  "name": "Security Operations Center",
+  "description": "Professional cybersecurity incident-reporting and security operations platform for authorized triage, status tracking, and incident response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
